@@ -15,7 +15,7 @@ int main()
     {
         i++;
     }
-
+    
     //To copy characters of 1st strings into 2nd string
     while (str2[j] != '\0')
     {
